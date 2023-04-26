@@ -1,7 +1,6 @@
 # Unnecessary compiled python files.
 __pycache__
-*.pyc
-*.pyo
+*.p
 
 # Log files for colab-convert
 cc-outputs.log
